@@ -28,4 +28,4 @@ Dharsi is a Dubai-based technology advisory and AI solutions company helping org
 
 ---
 
-<sub>© Dharsi L.L.C-FZ · Dubai, UAE</sub>
+<sub>© dharsi AI Ltd · Dubai, UAE</sub>
